@@ -1,2 +1,2 @@
-# table
-4rd project in html
+introductory card
+7rd project in html
